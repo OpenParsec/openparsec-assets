@@ -31,11 +31,3 @@ CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY.
 
 The Parsec launcher for the Linux version was written by Tamer Fahmy
 <tamer@tammura.at>.
-
-This software contains the "amp MPEG audio decoder version 0.7.6",
-Copyright (c) Tomislav Uzelac 1996, 1997.
-
-The Windows version of this software uses the QMDX.DLL library by
-QSound Labs, Inc. The included QMDX.DLL may only be used for running the
-Parsec game and not for any other purpose, as specified by the QMDX End-User
-License Agreement.
