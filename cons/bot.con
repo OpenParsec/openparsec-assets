@@ -1,0 +1,3 @@
+name botman
+clbot.server enyo.openparsec.com
+clbot.start
